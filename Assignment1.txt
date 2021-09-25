@@ -1,0 +1,12 @@
+a = 1;
+b = 1;
+while(b < n)
+{
+  a += 1;
+  b += a;
+  cout<<"Hi";
+}
+Ans:-
+	The order of Time complexity of this
+	program is Big Oh of (n)
+	T(n)=O(n)
